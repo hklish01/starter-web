@@ -12,6 +12,8 @@ Sample website with plenty of files for demos. The main purpose is to provide si
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 ## Deployment
 
 This is a simple web project, deployment can be to a web server.
