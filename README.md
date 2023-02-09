@@ -15,3 +15,7 @@ Sample website with plenty of files for demos. The main purpose is to provide si
 ## Deployment
 
 This is a simple web project, deployment can be to a web server.
+
+## Copyright
+
+Git.Training
